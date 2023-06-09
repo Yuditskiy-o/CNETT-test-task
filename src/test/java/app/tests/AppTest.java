@@ -24,7 +24,7 @@ public class AppTest {
     class PositiveTests {
 
         @Test
-        @DisplayName("Проверка, что если в массиве setUpDetectives есть элемент с firstName = Sherlock, то поле success " +
+        @DisplayName("Проверка, что если в массиве детективов есть элемент с firstName = Sherlock, то поле success " +
                 "в JSON-файле установлено в true")
         void testCheckIfDetectiveNamedSherlockExists() {
             step("Проверка, что детектива из 1-го массива зовут Шерлок", () ->
