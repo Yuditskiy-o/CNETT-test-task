@@ -1,17 +1,14 @@
 package app.tests;
 
-import app.entity.*;
+import app.entity.Detective;
 import app.specifications.Specification;
 import io.qameta.allure.Step;
-import io.restassured.http.ContentType;
-import io.restassured.response.Response;
 import org.junit.jupiter.api.*;
 
 import java.util.List;
 
 import static io.qameta.allure.Allure.step;
 import static io.restassured.RestAssured.given;
-import static org.hamcrest.Matchers.equalTo;
 import static org.junit.jupiter.api.Assertions.*;
 
 public class AppTest {

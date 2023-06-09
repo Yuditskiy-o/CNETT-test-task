@@ -10,8 +10,6 @@ import java.util.ArrayList;
 @AllArgsConstructor
 @NoArgsConstructor
 public class Root {
-
     private ArrayList<Detective> detectives;
     public boolean success;
-
 }

@@ -10,11 +10,9 @@ import java.util.ArrayList;
 @AllArgsConstructor
 @NoArgsConstructor
 public class Detective {
-
     public Integer MainId;
     public String firstName;
     public String lastName;
     public boolean violinPlayer;
     public ArrayList<Category> categories;
-
 }
