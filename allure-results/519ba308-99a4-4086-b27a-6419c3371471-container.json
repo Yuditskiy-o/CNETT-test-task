@@ -1,0 +1,1 @@
+{"uuid":"519ba308-99a4-4086-b27a-6419c3371471","name":"Проверка, что для CategoryID = 2 массив extraArray в JSON-файле пустой (null)","children":["9b1da61f-bf9f-4fbc-b898-591e9b30e0b0"],"befores":[],"afters":[],"start":1686331030623,"stop":1686331031301}

@@ -1,0 +1,1 @@
+{"uuid":"2459b54a-d294-41fd-b5ea-1246ce4d9d95","name":"Проверка, что для CategoryID = 1 поле extra в JSON-файле не равно null","children":["35d6f640-1482-46aa-976a-0b91f9f27fca"],"befores":[],"afters":[],"start":1686330485595,"stop":1686330486955}

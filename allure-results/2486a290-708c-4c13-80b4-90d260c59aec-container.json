@@ -1,0 +1,1 @@
+{"uuid":"2486a290-708c-4c13-80b4-90d260c59aec","name":"Проверка, что если в массиве setUpDetectives есть элемент с firstName = Sherlock, то поле success в JSON-файле установлено в true","children":["c99bc4a6-4372-4d44-a8dd-9ef14f0a9824"],"befores":[],"afters":[],"start":1686330540120,"stop":1686330541459}
