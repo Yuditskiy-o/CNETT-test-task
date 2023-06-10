@@ -1,7 +1,7 @@
-# Тестовое задание CNETT.RU
+# Тестовое задание C.NET
 [![Build status](https://ci.appveyor.com/api/projects/status/cuwnmvykhqfhtbx8?svg=true)](https://ci.appveyor.com/project/Yuditskiy-o/cnett-test-task)
 
-Ссылка на [тестовое задание](https://github.com/Yuditskiy-o/CNETT-test-task/blob/main/src/test/java/app/documents/Task.md)
+Ссылка на [тестовое задание](https://github.com/Yuditskiy-o/CNETT-test-task/blob/main/src/test/java/app/documents/Task.md).
 
 ## Запуск тестов.
 1. Для запуска отдельно позитивных тестов необходимо ввести команду:
